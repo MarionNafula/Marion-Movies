@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "Ashsura",
+        "Ashura",
+        "Baki",
+        "Eiichiro",
+        "Hunterx",
+        "Kengan",
+        "Lheader",
+        "Lookism",
+        "punchman"
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
