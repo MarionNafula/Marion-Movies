@@ -264,7 +264,7 @@ main{
 .dots .dot {
     padding: 5px 15px;
     border-radius: 50%;
-    border: 5px solid var(--secondary-color);
+    border: 5px solid gray;
     color: white;
     font-size: 20px;
     font-weight: 600;
