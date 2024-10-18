@@ -43,3 +43,6 @@ The `db.json` file contains the video data. It is a JSON file that contains an a
 ## How to Use
 
 To use the web application, simply open the `index.html` file in a web browser. The video list will be displayed and the user can search for a specific video by typing in the search bar. The user can also navigate through the list of videos using the pagination buttons.
+
+## License
+This project is licensed.
