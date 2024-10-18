@@ -98,7 +98,7 @@ var currentPage = 1;
 var nextPage = 2;
 var prevPage = 3;
 var lastUrl = '';
-var totalPages = 100;
+var totalPages = 10;
 
 var selectedGenre = []
 setGenre();
