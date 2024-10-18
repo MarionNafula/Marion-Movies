@@ -20,7 +20,7 @@ header{
     padding:1rem;
     display:flex;
     justify-content: flex-end;
-    background-color: var(--secondary-color);
+    background-color: gray;
     border-radius: 0%;
     border: #7378c5;
 }
@@ -37,7 +37,7 @@ header{
 
 .search:focus{
     outline:0;
-    background-color: var(--primary-color);
+    background-color: purple;
 }
 
 .search::placeholder{
@@ -55,7 +55,7 @@ main{
     margin: 1rem;
     border-radius: 3px;
     box-shadow: 0.2px 4px 5px rgba(0,0,0,0.1);
-    background-color: var(--secondary-color);
+    background-color: #f1f;
     position:relative;
     overflow: hidden;
 }
@@ -66,7 +66,7 @@ main{
 }
 
 .movie-info{
-    color:#eee;
+    color: burlywood;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -102,7 +102,7 @@ main{
     left:0;
     right:0;
     bottom:0;
-    background-color: #fff;
+    background-color: whitesmoke;
     padding: 1rem;
     max-height: 100%;
     transform:translateY(101%);
@@ -125,7 +125,7 @@ main{
 .tag{
     color:white;
     padding:10px 20px;
-    background-color: orange;
+    background-color: purple;
     border-radius: 50px;
     margin:5px;
     display:inline-block;
@@ -160,13 +160,13 @@ main{
 .current{
     padding: 10px 20px;
     border-radius: 50%;
-    border: 5px solid orange;
+    border: 5px solid palevioletred;
     font-size: 20px;
     font-weight: 600;
 }
 
 .know-more{
-    background-color: orange;
+    background-color: greenyellow;
     color:white;
     font-size: 16px;
     font-weight: bold;
